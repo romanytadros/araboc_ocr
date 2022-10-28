@@ -1,1 +1,1 @@
-web: gunicorn djangoreact.wsgi
+web: gunicorn website.wsgi
