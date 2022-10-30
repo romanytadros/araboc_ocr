@@ -20,6 +20,7 @@ from django.views.decorators.csrf import csrf_exempt,ensure_csrf_cookie
 #     'tesseract'
 # )
 
+
 # @csrf_exempt
 # @ensure_csrf_cookie
 def homepage(request):
