@@ -16,9 +16,9 @@ from django.views.decorators.csrf import csrf_exempt,ensure_csrf_cookie
 # )
 
 
-pytesseract.pytesseract.tesseract_cmd = (
-    'tesseract'
-)
+# pytesseract.pytesseract.tesseract_cmd = (
+#     'tesseract'
+# )
 
 # @csrf_exempt
 # @ensure_csrf_cookie
